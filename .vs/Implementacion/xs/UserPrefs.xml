@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{5C678F4D-1D20-43F2-ABD9-95D1C8EB0177}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Implementacion/MutationFacturas.cs">
+    <Files>
+      <File FileName="Implementacion/Program.cs" Line="12" Column="1" />
+      <File FileName="Implementacion/MutationFacturas.cs" Line="52" Column="25" />
+      <File FileName="Implementacion/NavegadorTab.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Implementacion" expanded="True">
+            <Node name="Implementacion" expanded="True">
+              <Node name="MutationFacturas.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Implementacion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mTdlU2kdSMrwkQ/oALSArwdiKtlMmrPnSj2q39iUZjzhykvKb5qzEM86+xWGk0B74qCuFy85JJa9kZ0jYbfhZQ==",
+  "success": true,
+  "projectFilePath": "/Users/nick/Documents/IDE Nick/Implementacion/Implementacion/Implementacion.csproj",
+  "expectedPackageFiles": [
+    "/Users/nick/.nuget/packages/graphql.client/6.0.3/graphql.client.6.0.3.nupkg.sha512",
+    "/Users/nick/.nuget/packages/graphql.client.abstractions/6.0.3/graphql.client.abstractions.6.0.3.nupkg.sha512",
+    "/Users/nick/.nuget/packages/graphql.client.abstractions.websocket/6.0.3/graphql.client.abstractions.websocket.6.0.3.nupkg.sha512",
+    "/Users/nick/.nuget/packages/graphql.client.serializer.newtonsoft/6.0.3/graphql.client.serializer.newtonsoft.6.0.3.nupkg.sha512",
+    "/Users/nick/.nuget/packages/graphql.primitives/6.0.3/graphql.primitives.6.0.3.nupkg.sha512",
+    "/Users/nick/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/nick/.nuget/packages/system.reactive/6.0.0/system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
