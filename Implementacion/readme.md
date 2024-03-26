@@ -20,7 +20,7 @@ Esta documentación proporciona una descripción general de la clase `GraphQLSer
 5. [Query](#query)
    - [Metodos](#metodoQuery)
    - [Parametros](#parametrosQuery)
-6, [Librerias](#librerias)
+6. [Librerias](#librerias)
 ---
 
 #### Visión General <a name="overview"></a>
